@@ -16,6 +16,7 @@ functional standard: all devices must able to reach the max performance, overclo
 style: industrial or creative shape, rgb or paint will be counted as additional, but essential to this challenge.
 
 # reward
-an open frame case
+an open frame case.
 
 # time to plan
+start now.
