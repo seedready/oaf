@@ -1,0 +1,20 @@
+Design: OAF K1 
+
+This design is a retangle cube, can potentially add covers later on.
+
+specification
+- 210x250x330mm (17L)
+- design for ATX, M-ATX up to 250mm (25cm) wide
+- cpu high clearance 195mm (19.5cm)
+
+materials
+1. 12x12x1.4mm 1m, qty: 4, AUD 16.40; make 250mm(L)x5, 330mm(l)x4, 210mm(l)x4; source: Metal Mate 12 x 12 x 1.4mm 1m Aluminium Equal Angle (I/N: 1067849, https://www.bunnings.com.au/metal-mate-12-x-12-x-1-4mm-1m-aluminium-equal-angle_p1067849) 
+2. 12x12x3.0mm 1m, qty: 1, AUD 7.50; make 250mm(L)x3; source: Metal Mate 12 x 12 x 3mm 1m Aluminium Equal Angle (I/N: 1067857, https://www.bunnings.com.au/metal-mate-12-x-12-x-3mm-1m-aluminium-equal-angle_p1067857)
+3. M3 Screw 6mm, qty: 24, AUD 1.56, source: Pinnacle M3 x 6mm Zinc Plated Round Head Bolts And Nuts - 24 Pack (I/N: 0247261, https://www.bunnings.com.au/pinnacle-m3-x-6mm-zinc-plated-round-head-bolts-and-nuts-24-pack_p0247261)
+4. 6-32 standoff screw, qty: 7, AUD 0, source: from old PC case
+
+pre-requirement
+1. M3 drill bit
+2. 7/64 drill bit
+3. 6/32 SAE tap
+4. hack saw or equivalent 
