@@ -27,9 +27,11 @@ an open frame case.
 # time to plan
 tbc.
 
-# Full ATX case arrangement research
+# full ATX case arrangement research
 1. ATX, 34L, CPU cooler clearance: 160mm, air direction: bottom-up, Cooler master q500l, https://www.coolermaster.com/catalog/cases/mid-tower/masterbox-q500l/
 2. ATX, 35L, CPU cooler clearance: 168mm, air direction: bottom-up, Jonsbo D40, https://www.jonsbo.com/en/products/D40.html
 3. ATX, 39.4L, CPU cooler clearance: 169mm, air direction: front-back, Fractal Design Meshify 2 Compact , https://www.fractal-design.com/products/cases/meshify/meshify-2-compact/black-tg-dark-tint/
 4. ATX, 43L, CPU cooler clearance: 170mm, air direction: front-back, Lian Li O11 AIR MINI, https://lian-li.com/product/o11-air-mini/
 5. ATX, 46L, CPU cooler clearance: 174mm, air direction: front-back, Fractal Design Torrent Compact, https://www.fractal-design.com/products/cases/torrent/torrent-compact/white-rgb-tg-clear-tint/
+6. ATX, 23.6L, water cooling: 280mm, Thermaltake Core G3, https://www.thermaltake.com/core-g3.html
+7. ATX, 35.4L, CPU cooler clearance: 168mm, air direction: bottom-up, Jonsbo D41, https://www.jonsbo.com/en/products/D41MESHBlack.html
